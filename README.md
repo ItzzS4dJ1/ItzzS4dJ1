@@ -21,6 +21,7 @@
 
 ### 📊 GitHub Stats
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ItzzS4dJ1&show_icons=true&theme=tokyonight" alt="ItzzS4dJ1's GitHub stats" />
 </p>
