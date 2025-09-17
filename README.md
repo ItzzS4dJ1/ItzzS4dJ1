@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Yo, I'm ItzzS4dJ1</h1>
 
-<!--
-**ItzzS4dJ1/ItzzS4dJ1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Spigot Plugins Developer | Minecraft Developer | GameDev from Uzbekistan</b>
+</p>
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Making Minecraft mods and plugins since 2023.
+- 🌟 Check out some of my recent projects:
+  - [Roleplay Chat-Plugin](https://github.com/ItzzS4dJ1/Roleplay-Chat-Plugin)
+  - [SadJiSMP](https://github.com/ItzzS4dJ1/SadJiSMP)
+  - [HOTVH](https://github.com/ItzzS4dJ1/HOTVH)
+  - [RPM V3](https://github.com/ItzzS4dJ1/RolePlayManagerV3)
+  - [spaceDelivery](https://github.com/ItzzS4dJ1/spaceDelivery)
+
+### 🌐 Socials
+
+- [Telegram](https://www.t.me/SoloDevelopment)
+- [YouTube](https://www.youtube.com/@itzzsadji2287)
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItzzS4dJ1&show_icons=true&theme=tokyonight" alt="ItzzS4dJ1's GitHub stats" />
+</p>
+
+### ⏰ Recent Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ItzzS4dJ1&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</p>
