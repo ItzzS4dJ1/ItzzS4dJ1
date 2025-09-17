@@ -3,7 +3,11 @@
 <p align="center">
   <b>Spigot Plugins Developer | Minecraft Developer | GameDev from Uzbekistan</b>
 </p>
-
+<p align="center">
+  <a href="https://github.com/ItzzS4dJ1">
+    <img src="https://skillicons.dev/icons?i=git,java,blender,cpp,github,godot,idea,js,lua,maven,py,pycharm,robloxstudio,vscode,visualstudio," />
+  </a>
+</p>
 ### 🚀 About Me
 
 - 💻 Making Minecraft mods and plugins since 2023.
