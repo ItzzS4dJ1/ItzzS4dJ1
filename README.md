@@ -7,8 +7,7 @@
   <a href="https://github.com/ItzzS4dJ1">
     <img src="https://skillicons.dev/icons?i=git,java,blender,cpp,github,godot,idea,js,lua,maven,py,pycharm,robloxstudio,vscode,visualstudio," />
   </a>
-</p>
-### 🚀 About Me
+  ### 🚀 About Me
 
 - 💻 Making Minecraft mods and plugins since 2023.
 - 🌟 Check out some of my recent projects:
@@ -31,6 +30,8 @@
 </p>
 
 ### ⏰ Recent Activity
+
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ItzzS4dJ1&theme=tokyo-night" alt="GitHub Activity Graph"/>
