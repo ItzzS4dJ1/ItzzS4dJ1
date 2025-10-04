@@ -26,8 +26,8 @@
 ### 
 
 <p align="center">
-  <a href="https://www.t.me/SoloDevelopment"><img src="assets/telegram.png" alt="Click me!" style="width:42px;height:42px;"></a>
-  <a href="https://www.youtube.com/@itzzsadji2287)"><img src="assets/youtube.png" alt="Click me!"></a>
+  <a href="https://www.t.me/SoloDevelopment"><img src="assets/telegram.png" alt="Click me!" style="width:102px;height:102px;"></a>
+  <a href="https://www.youtube.com/@itzzsadji2287)"><img src="assets/youtube.png" alt="Click me!" style="width:102px;height:102px;"></a>
 </p>
 
 ### 🌐 Socials
