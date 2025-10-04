@@ -19,11 +19,12 @@
   <a href="https://www.youtube.com/@itzzsadji2287)"><img src="assets/youtubeNew.png" alt="Click me!" style="width:88px;height:88px;"></a>
 </p>
 
+<h3 align="center">⏱️ Latest project</h3>
+<p align="center">
+  <a href="https://www.t.me/SoloDevelopment"><img src="assets/RPM.png" alt="Click me!" style="width:299px;height:117px;"></a>
+</p>
 
-
-
-
-<h3 align="center">📊 GitHub Stats</h3>
+<h4 align="center">📊 GitHub Stats</h4>
 
 ![snake gif](https://github.com/ItzzS4dJ1/ItzzS4dJ1/blob/output/github-snake-dark.svg)
 <p align="center">
