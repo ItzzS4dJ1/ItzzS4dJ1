@@ -39,7 +39,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-![snake gif](https://github.com/ItzzS4dJ1/ItzzS4dJ1/blob/output/github-snake-dark.svg)
+<p align="center">![snake gif](https://github.com/ItzzS4dJ1/ItzzS4dJ1/blob/output/github-snake-dark.svg)</p>
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ItzzS4dJ1&show_icons=true&theme=tokyonight" alt="ItzzS4dJ1's GitHub stats" />
 </p>-->
