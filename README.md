@@ -21,7 +21,7 @@
 
 <h3 align="center">⏱️ Latest project</h3>
 <p align="center">
-  <a href="https://www.t.me/SoloDevelopment"><img src="assets/RPM.png" alt="Click me!" style="width:299px;height:117px;"></a>
+  <a href="https://www.github.com/ItzzS4dJ1/RolePlayManager"><img src="assets/RPM.png" alt="Click me!" style="width:299px;height:117px;"></a>
 </p>
 
 <h4 align="center">📊 GitHub Stats</h4>
