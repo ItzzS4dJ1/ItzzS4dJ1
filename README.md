@@ -9,36 +9,24 @@
   </a>
 </p>
 
-<h2 style="text-align: center;">🚀 About Me</h2>
-<p style="text-align: center;">
-  - 💻 Making Minecraft mods and plugins since 2023.
-- 🌟 Check out some of my recent projects:
-  - [Roleplay Chat-Plugin](https://github.com/ItzzS4dJ1/Roleplay-Chat-Plugin)
-  - [SadJiSMP](https://github.com/ItzzS4dJ1/SadJiSMP)
-  - [HOTVH](https://github.com/ItzzS4dJ1/HOTVH)
-  - [RPM V3](https://github.com/ItzzS4dJ1/RolePlayManagerV3)
-  - [spaceDelivery](https://github.com/ItzzS4dJ1/spaceDelivery)
-</p>
+<h2 align="center">🌐 Socials</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ItzzS4dJ1&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </p>
 
-### 
-
 <p align="center">
-  <a href="https://www.t.me/SoloDevelopment"><img src="assets/telegramNew.png" alt="Click me!" style="width:102px;height:102px;"></a>
-  <a href="https://www.youtube.com/@itzzsadji2287)"><img src="assets/youtubeNew.png" alt="Click me!" style="width:102px;height:102px;"></a>
+  <a href="https://www.t.me/SoloDevelopment"><img src="assets/telegramNew.png" alt="Click me!" style="width:88px;height:88px;"></a>
+  <a href="https://www.youtube.com/@itzzsadji2287)"><img src="assets/youtubeNew.png" alt="Click me!" style="width:88px;height:88px;"></a>
 </p>
 
-### 🌐 Socials
 
 
 
-### 📊 GitHub Stats
+
+<h3 align="center">📊 GitHub Stats</h3>
 
 ![snake gif](https://github.com/ItzzS4dJ1/ItzzS4dJ1/blob/output/github-snake-dark.svg)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ItzzS4dJ1&show_icons=true&theme=tokyonight" alt="ItzzS4dJ1's GitHub stats" />
 </p>
 
-### ⏰ Recent Activity
