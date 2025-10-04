@@ -25,12 +25,14 @@
 
 ### 
 
-
+<p align="center">
+  <a href="https://www.t.me/SoloDevelopment"><img src="https://skillicons.dev/icons?i=telegram" alt="Click me!" style="width:42px;height:42px;"></a>
+  <a href="https://www.youtube.com/@itzzsadji2287)"><img src="https://skillicons.dev/icons?i=telegram" alt="Click me!"></a>
+</p>
 
 ### 🌐 Socials
 
-- [Telegram](https://www.t.me/SoloDevelopment)
-- [YouTube](https://www.youtube.com/@itzzsadji2287)
+
 
 ### 📊 GitHub Stats
 
