@@ -7,7 +7,7 @@
   <b>Spigot Plugins Developer | Minecraft Developer | GameDev from Uzbekistan</b>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=openjdk&logoColor=ffffff&logoSize=60&label=%20&labelColor=%237796f1&color=%237796f1" alt="that's java, yep"/>
+  <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=openjdk&logoColor=ffffff&logoSize=60&label=%20&labelColor=%23f8cd00&color=%23f8cd00" alt="that's java, yep"/>
   <img alt="Godot4" src="https://img.shields.io/badge/GDScript-black?style=for-the-badge&logo=godotengine&logoColor=ffffff&logoSize=60&label=%20&labelColor=%237796f1&color=%237796f1">
   <img alt="Py" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=ffffff&logoSize=60&label=%20&labelColor=%237796f1&color=%237796f1">
   <img alt="lua" src="https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua&logoColor=ffffff&logoSize=60&label=%20&labelColor=%237796f1&color=%237796f1">
