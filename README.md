@@ -7,21 +7,23 @@
   <b>Spigot Plugins Developer | Minecraft Developer | GameDev from Uzbekistan</b>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=openjdk&logoColor=ffffff&logoSize=60&label=%20&labelColor=%23f8cd00&color=%23f8cd00" alt="that's java, yep"/>
-  <img alt="Godot4" src="https://img.shields.io/badge/GDScript-black?style=for-the-badge&logo=godotengine&logoColor=ffffff&logoSize=60&label=%20&labelColor=%237796f1&color=%237796f1">
-  <img alt="Py" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=ffffff&logoSize=60&label=%20&labelColor=%237796f1&color=%237796f1">
-  <img alt="lua" src="https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua&logoColor=ffffff&logoSize=60&label=%20&labelColor=%237796f1&color=%237796f1">
+  <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=openjdk&logoColor=ffffff&logoSize=60&label=%20&labelColor=%23e5ba52&color=%23e5ba52" alt="that's java, yep"/>
+  <img alt="Godot4" src="https://img.shields.io/badge/GDScript-black?style=for-the-badge&logo=godotengine&logoColor=ffffff&logoSize=60&label=%20&labelColor=%231b1f20&color=%231b1f20">
+  <img alt="Py" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=ffffff&logoSize=60&label=%20&labelColor=%231b1f20&color=%231b1f20">
+  <img alt="lua" src="https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua&logoColor=ffffff&logoSize=60&label=%20&labelColor=%23e5ba52&color=%23e5ba52">
 
 </p>
 
 <h3 align="center">🛠️ Tools and APIs I use</h3>
 <p align="center">
-  <img alt="Maven" src="https://img.shields.io/badge/Maven-black?style=for-the-badge&logo=apachemaven&logoColor=ffffff&logoSize=60&label=%20&labelColor=%237796f1&color=%237796f1">
+  <img alt="Maven" src="https://img.shields.io/badge/Maven-black?style=for-the-badge&logo=apachemaven&logoColor=ffffff&logoSize=60&label=%20&labelColor=%23e5ba52&color=%23e5ba52">
   <img alt="Forge" src="https://img.shields.io/badge/Forge_API-black?style=for-the-badge&logo=curseforge&logoColor=ffffff&logoSize=60&label=%20&labelColor=%237796f1&color=%237796f1">
-  <img alt="Spigot" src="https://img.shields.io/badge/Spigot_API-black?style=for-the-badge&logo=spigotmc&logoColor=ffffff&logoSize=60&label=%20&labelColor=%237796f1&color=%237796f1">
+  <img alt="Spigot" src="https://img.shields.io/badge/Spigot_API-black?style=for-the-badge&logo=spigotmc&logoColor=ffffff&logoSize=60&label=%20&labelColor=%23e5ba52&color=%23e5ba52">
+  <br>
   <img alt="Copilot" src="https://img.shields.io/badge/Copilot-black?style=for-the-badge&logo=githubcopilot&logoColor=ffffff&logoSize=60&label=%20&labelColor=%237796f1&color=%237796f1">
   <img alt="IDEA" src="https://img.shields.io/badge/Intellij_IDEA-black?style=for-the-badge&logo=intellijidea&logoColor=ffffff&logoSize=60&label=%20&labelColor=%237796f1&color=%237796f1">
-  <img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-black?style=for-the-badge&logo=pycharm&logoColor=ffffff&logoSize=60&label=%20&labelColor=%237796f1&color=%237796f1">
+  <br>
+  <img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-black?style=for-the-badge&logo=pycharm&logoColor=ffffff&logoSize=60&label=%20&labelColor=%23f8cd00&color=%23e5ba52">
 
 </p>
 
