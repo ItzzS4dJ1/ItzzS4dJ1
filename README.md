@@ -16,8 +16,8 @@
 
 <h3 align="center">🛠️ Tools and APIs I use</h3>
 <p align="center">
-  <img alt="Maven" src="https://img.shields.io/badge/Maven-black?style=for-the-badge&logo=apachemaven&logoColor=ffffff&logoSize=60&label=%20&labelColor=%23e5ba52&color=%23e5ba52">
-  <img alt="Forge" src="https://img.shields.io/badge/Forge_API-black?style=for-the-badge&logo=curseforge&logoColor=ffffff&logoSize=60&label=%20&labelColor=%231f2124&color=%231f2124">
+  <img alt="Forge" src="https://img.shields.io/badge/Forge_API-black?style=for-the-badge&logo=curseforge&logoColor=ffffff&logoSize=60&label=%20&labelColor=%23e5ba52&color=%23e5ba52">
+  <img alt="Maven" src="https://img.shields.io/badge/Maven-black?style=for-the-badge&logo=apachemaven&logoColor=ffffff&logoSize=60&label=%20&labelColor=%231f2124&color=%231f2124">
   <img alt="Spigot" src="https://img.shields.io/badge/Spigot_API-black?style=for-the-badge&logo=spigotmc&logoColor=ffffff&logoSize=60&label=%20&labelColor=%23e5ba52&color=%23e5ba52">
   <br>
   <img alt="Copilot" src="https://img.shields.io/badge/Copilot-black?style=for-the-badge&logo=githubcopilot&logoColor=ffffff&logoSize=60&label=%20&labelColor=%231f2124&color=%231f2124">
