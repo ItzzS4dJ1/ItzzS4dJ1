@@ -23,7 +23,7 @@
   <img alt="Copilot" src="https://img.shields.io/badge/Copilot-black?style=for-the-badge&logo=githubcopilot&logoColor=ffffff&logoSize=60&label=%20&labelColor=%231f2124&color=%231f2124">
   <img alt="IDEA" src="https://img.shields.io/badge/Intellij_IDEA-black?style=for-the-badge&logo=intellijidea&logoColor=ffffff&logoSize=60&label=%20&labelColor=%231f2124&color=%231f2124">
   <br>
-  <img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-black?style=for-the-badge&logo=pycharm&logoColor=ffffff&logoSize=60&label=%20&labelColor=%23f8cd00&color=%23e5ba52">
+  <img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-black?style=for-the-badge&logo=pycharm&logoColor=ffffff&logoSize=60&label=%20&labelColor=%23e5ba52&color=%23e5ba52">
 
 </p>
 
