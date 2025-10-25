@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://www.github.com/ItzzS4dJ1/"><img src="assets/hey_gold.png" alt="Click me!" style="width:355px;height:200px;"></a>
+  <a href="https://www.github.com/ItzzS4dJ1/"><img src="assets/hey_gold.png" alt="Click me!" style="width:355px;height:170px;"></a>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 <h3 align="center">⏱️ Latest project</h3>
 <p align="center">
-  <a href="https://www.github.com/ItzzS4dJ1/RolePlayManager"><img src="assets/rpm_gold.png" alt="Click me!" style="width:299px;height:165px;"></a>
+  <a href="https://www.github.com/ItzzS4dJ1/RolePlayManager"><img src="assets/rpm_gold.png" alt="Click me!" style="width:299px;height:150px;"></a>
 </p>
 <p align="center"><s size="10">clickable</s></p>
 
